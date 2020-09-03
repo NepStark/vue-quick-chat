@@ -1,6 +1,7 @@
 # vue-quick-chat
 This vue component is a simple chat that can be easily imported and used in your project.
-
+https://github.com/MatheusrdSantos/vue-quick-chat.git
+[![Run on Repl.it](https://repl.it/badge/github/MatheusrdSantos/vue-quick-chat)](https://repl.it/github/MatheusrdSantos/vue-quick-chat)
 ## Features
 - Custom style
 - Handle on type event and on message submit 
